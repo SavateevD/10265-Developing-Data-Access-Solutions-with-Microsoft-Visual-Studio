@@ -1,0 +1,42 @@
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Form1.resources
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Form1.resources
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe.config
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe.config
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Form1.resources
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe.config
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Form1.resources
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.exe
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Windows Forms Test Application\obj\x86\Debug\Test Application.pdb

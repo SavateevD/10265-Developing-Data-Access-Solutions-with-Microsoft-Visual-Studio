@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2307217e-7cd7-4d5d-a39a-000accc1eeca" name="Student@10265A-GEN-DEV 2010-02-04 04:59:14" runUser="10265A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d784ffcb-2d4f-44ec-a554-a2b6e3e58f98">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10265A-GEN-DEV 2010-02-04 04_59_14">
+      <DeploymentItem filename="E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\bin\Debug\DAL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-04T04:59:14.3678203-08:00" queuing="2010-02-04T04:59:15.7818828-08:00" start="2010-02-04T04:59:15.8785625-08:00" finish="2010-02-04T04:59:19.3893047-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="UpdateProductTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="08045fde-0173-53c7-e01c-2ab8c67b2c5e">
+      <Execution id="6b1976aa-165e-4a1a-beae-9c0a0d55ec45" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateProductTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListByMaxPriceTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="133d8d82-a680-a254-03fb-541a93beb274">
+      <Execution id="93c90d98-8bc1-495c-bcef-595372ed0168" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListByMaxPriceTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListByColorTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b">
+      <Execution id="d0c9469c-8da6-4208-913e-56e5bdb9ff5b" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListByColorTest" />
+    </UnitTest>
+    <UnitTest name="GetProductByProductIDTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="2555bd66-1227-44ed-c426-5aeb6476e3e6">
+      <Execution id="90ed16b0-1544-430b-98e1-2d9e8eb2872a" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductByProductIDTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="8210afdc-cd2a-be6e-4162-20c310688edb">
+      <Execution id="ea973b7f-96a0-4412-8630-ef932cb73a03" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListTest" />
+    </UnitTest>
+    <UnitTest name="DeleteProductTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="391b025d-25d4-d0eb-66ad-6d527b42707f">
+      <Execution id="281b3193-d6bd-4989-969e-e41086502c29" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteProductTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="08045fde-0173-53c7-e01c-2ab8c67b2c5e" executionId="6b1976aa-165e-4a1a-beae-9c0a0d55ec45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="133d8d82-a680-a254-03fb-541a93beb274" executionId="93c90d98-8bc1-495c-bcef-595372ed0168" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" executionId="90ed16b0-1544-430b-98e1-2d9e8eb2872a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="391b025d-25d4-d0eb-66ad-6d527b42707f" executionId="281b3193-d6bd-4989-969e-e41086502c29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8210afdc-cd2a-be6e-4162-20c310688edb" executionId="ea973b7f-96a0-4412-8630-ef932cb73a03" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" executionId="d0c9469c-8da6-4208-913e-56e5bdb9ff5b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6b1976aa-165e-4a1a-beae-9c0a0d55ec45" testId="08045fde-0173-53c7-e01c-2ab8c67b2c5e" testName="UpdateProductTest" computerName="10265A-GEN-DEV" duration="00:00:00.5999796" startTime="2010-02-04T04:59:15.9029766-08:00" endTime="2010-02-04T04:59:16.9674297-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6b1976aa-165e-4a1a-beae-9c0a0d55ec45">
+    </UnitTestResult>
+    <UnitTestResult executionId="93c90d98-8bc1-495c-bcef-595372ed0168" testId="133d8d82-a680-a254-03fb-541a93beb274" testName="GetProductListByMaxPriceTest" computerName="10265A-GEN-DEV" duration="00:00:00.1079475" startTime="2010-02-04T04:59:16.9762187-08:00" endTime="2010-02-04T04:59:17.0914531-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93c90d98-8bc1-495c-bcef-595372ed0168">
+    </UnitTestResult>
+    <UnitTestResult executionId="90ed16b0-1544-430b-98e1-2d9e8eb2872a" testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" testName="GetProductByProductIDTest" computerName="10265A-GEN-DEV" duration="00:00:00.2941270" startTime="2010-02-04T04:59:17.0982891-08:00" endTime="2010-02-04T04:59:17.3961406-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="90ed16b0-1544-430b-98e1-2d9e8eb2872a">
+    </UnitTestResult>
+    <UnitTestResult executionId="281b3193-d6bd-4989-969e-e41086502c29" testId="391b025d-25d4-d0eb-66ad-6d527b42707f" testName="DeleteProductTest" computerName="10265A-GEN-DEV" duration="00:00:00.1103799" startTime="2010-02-04T04:59:17.4010234-08:00" endTime="2010-02-04T04:59:17.5152812-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="281b3193-d6bd-4989-969e-e41086502c29">
+    </UnitTestResult>
+    <UnitTestResult executionId="ea973b7f-96a0-4412-8630-ef932cb73a03" testId="8210afdc-cd2a-be6e-4162-20c310688edb" testName="GetProductListTest" computerName="10265A-GEN-DEV" duration="00:00:00.0929037" startTime="2010-02-04T04:59:17.5172344-08:00" endTime="2010-02-04T04:59:17.6227031-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ea973b7f-96a0-4412-8630-ef932cb73a03">
+    </UnitTestResult>
+    <UnitTestResult executionId="d0c9469c-8da6-4208-913e-56e5bdb9ff5b" testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" testName="GetProductListByColorTest" computerName="10265A-GEN-DEV" duration="00:00:00.1787210" startTime="2010-02-04T04:59:17.6246562-08:00" endTime="2010-02-04T04:59:17.8062969-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d0c9469c-8da6-4208-913e-56e5bdb9ff5b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

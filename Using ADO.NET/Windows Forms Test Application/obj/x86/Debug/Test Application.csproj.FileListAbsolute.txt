@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Form1.resources
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.exe
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Form1.resources
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.exe
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.pdb
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe.config
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.exe
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test Application.pdb
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.exe
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\Test Application.pdb
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.dll
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Debug\DAL.pdb
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Form1.resources
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\Test_Application.Properties.Resources.resources
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Labfiles\Module 15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\x86\Debug\GenerateResource.write.1.tlog

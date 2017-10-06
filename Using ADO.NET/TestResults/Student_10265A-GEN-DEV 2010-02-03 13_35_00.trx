@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3b7053ca-f144-4a8d-9efe-2b9626cae0b6" name="Student@10265A-GEN-DEV 2010-02-03 13:35:00" runUser="10265A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d784ffcb-2d4f-44ec-a554-a2b6e3e58f98">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10265A-GEN-DEV 2010-02-03 13_35_00">
+      <DeploymentItem filename="E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\bin\Debug\DAL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-03T13:35:00.1195000-08:00" queuing="2010-02-03T13:35:00.1351250-08:00" start="2010-02-03T13:35:00.1702812-08:00" finish="2010-02-03T13:35:02.5687187-08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetProductByProductIDTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="2555bd66-1227-44ed-c426-5aeb6476e3e6">
+      <Execution id="40eecf6e-a4a1-48fc-bed1-c528df9016eb" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductByProductIDTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" executionId="40eecf6e-a4a1-48fc-bed1-c528df9016eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="40eecf6e-a4a1-48fc-bed1-c528df9016eb" testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" testName="GetProductByProductIDTest" computerName="10265A-GEN-DEV" duration="00:00:01.9521819" startTime="2010-02-03T13:35:00.1732109-08:00" endTime="2010-02-03T13:35:02.5491875-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40eecf6e-a4a1-48fc-bed1-c528df9016eb">
+    </UnitTestResult>
+  </Results>
+</TestRun>

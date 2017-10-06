@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2df0a0ad-01a4-48b8-b069-a8e554dcac7d" name="Student@10265A-GEN-DEV 2010-02-04 07:44:43" runUser="10265A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d784ffcb-2d4f-44ec-a554-a2b6e3e58f98">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10265A-GEN-DEV 2010-02-04 07_44_43">
+      <DeploymentItem filename="E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL\bin\Debug\DAL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-04T07:44:43.8951641-08:00" queuing="2010-02-04T07:44:45.0191875-08:00" start="2010-02-04T07:44:45.1676250-08:00" finish="2010-02-04T07:48:47.9566875-08:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="10265A-GEN-DEV" outcome="Error" timestamp="2010-02-04T07:48:47.9547344-08:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GetProductListByColorTest" storage="e:\labfiles\lab15\exercise 3\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b">
+      <Execution id="ec97a22a-177c-40ad-9f55-8f32a0b0f6c7" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 3/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListByColorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" executionId="ec97a22a-177c-40ad-9f55-8f32a0b0f6c7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ec97a22a-177c-40ad-9f55-8f32a0b0f6c7" testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" testName="GetProductListByColorTest" computerName="10265A-GEN-DEV" duration="00:04:02.6445313" startTime="2010-02-04T07:44:45.3121562-08:00" endTime="2010-02-04T07:48:47.9566875-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ec97a22a-177c-40ad-9f55-8f32a0b0f6c7">
+    </UnitTestResult>
+  </Results>
+</TestRun>

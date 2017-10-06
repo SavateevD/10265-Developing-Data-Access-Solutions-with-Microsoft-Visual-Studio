@@ -1,0 +1,21 @@
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\bin\Test Application.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\bin\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\bin\DAL.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\bin\DAL.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Test Application.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\DAL.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\bin\DAL.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Test Application.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\bin\Test Application.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\bin\DAL.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\bin\DAL.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\Test Application\obj\Debug\Test Application.pdb

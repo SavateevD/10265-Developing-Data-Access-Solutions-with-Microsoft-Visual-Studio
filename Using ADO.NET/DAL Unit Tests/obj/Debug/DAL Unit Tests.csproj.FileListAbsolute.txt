@@ -1,0 +1,58 @@
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 14\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+C:\Users\Administrator\Desktop\M10265a\Solution Files\Module 15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Module 15\Exercise 1\Starter\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 2\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll.config
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL Unit Tests.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\bin\Debug\DAL.pdb
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\ResolveAssemblyReference.cache
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.dll
+E:\Labfiles\Lab15\Exercise 3\Solution\Using ADO.NET\DAL Unit Tests\obj\Debug\DAL Unit Tests.pdb

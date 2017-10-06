@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="068dd32f-74ab-4e96-b673-482b68a5d51f" name="Student@10265A-GEN-DEV 2010-02-03 10:49:46" runUser="10265A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="d784ffcb-2d4f-44ec-a554-a2b6e3e58f98">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10265A-GEN-DEV 2010-02-03 10_49_46">
+      <DeploymentItem filename="E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\bin\Debug\DAL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-02-03T10:49:46.0775078-08:00" queuing="2010-02-03T10:49:49.0247734-08:00" start="2010-02-03T10:49:49.1380547-08:00" finish="2010-02-03T10:49:54.5130547-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="6" executed="6" passed="2" error="0" failed="4" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="UpdateProductTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="08045fde-0173-53c7-e01c-2ab8c67b2c5e">
+      <Execution id="600cae6c-0870-4f1e-8d72-16ef5fc69ed6" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateProductTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListByMaxPriceTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="133d8d82-a680-a254-03fb-541a93beb274">
+      <Execution id="3ac8f8ef-9f6d-4efc-b59e-6cad1c6b9264" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListByMaxPriceTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListByColorTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b">
+      <Execution id="ef8ca78d-0d52-4d59-af06-a6f805c599a2" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListByColorTest" />
+    </UnitTest>
+    <UnitTest name="GetProductByProductIDTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="2555bd66-1227-44ed-c426-5aeb6476e3e6">
+      <Execution id="5d5ef482-7ea6-4357-82c8-6e8bf71b3253" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductByProductIDTest" />
+    </UnitTest>
+    <UnitTest name="GetProductListTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="8210afdc-cd2a-be6e-4162-20c310688edb">
+      <Execution id="ce00ec50-6f97-4433-bf80-007f6e34d6b6" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GetProductListTest" />
+    </UnitTest>
+    <UnitTest name="DeleteProductTest" storage="e:\labfiles\lab15\exercise 1\solution\using ado.net\dal unit tests\bin\debug\dal unit tests.dll" id="391b025d-25d4-d0eb-66ad-6d527b42707f">
+      <Execution id="b48698a7-d711-47eb-999a-74779605ede8" />
+      <TestMethod codeBase="E:/Labfiles/Lab15/Exercise 1/Solution/Using ADO.NET/DAL Unit Tests/bin/Debug/DAL Unit Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="DAL_Unit_Tests.IProductDataAccessLayerTest, DAL Unit Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DeleteProductTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="08045fde-0173-53c7-e01c-2ab8c67b2c5e" executionId="600cae6c-0870-4f1e-8d72-16ef5fc69ed6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="133d8d82-a680-a254-03fb-541a93beb274" executionId="3ac8f8ef-9f6d-4efc-b59e-6cad1c6b9264" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" executionId="5d5ef482-7ea6-4357-82c8-6e8bf71b3253" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="391b025d-25d4-d0eb-66ad-6d527b42707f" executionId="b48698a7-d711-47eb-999a-74779605ede8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8210afdc-cd2a-be6e-4162-20c310688edb" executionId="ce00ec50-6f97-4433-bf80-007f6e34d6b6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" executionId="ef8ca78d-0d52-4d59-af06-a6f805c599a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="600cae6c-0870-4f1e-8d72-16ef5fc69ed6" testId="08045fde-0173-53c7-e01c-2ab8c67b2c5e" testName="UpdateProductTest" computerName="10265A-GEN-DEV" duration="00:00:02.3137314" startTime="2010-02-03T10:49:49.2132500-08:00" endTime="2010-02-03T10:49:52.0316094-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="600cae6c-0870-4f1e-8d72-16ef5fc69ed6">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method DAL_Unit_Tests.IProductDataAccessLayerTest.UpdateProductTest threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at DAL.ProductDataAccessLayer.UpdateProduct(ProductDataObject product) in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\ProductDataAccessLayer.cs:line 72
+   at DAL_Unit_Tests.IProductDataAccessLayerTest.UpdateProductTest() in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\IProductDataAccessLayerTest.cs:line 225
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3ac8f8ef-9f6d-4efc-b59e-6cad1c6b9264" testId="133d8d82-a680-a254-03fb-541a93beb274" testName="GetProductListByMaxPriceTest" computerName="10265A-GEN-DEV" duration="00:00:00.2467495" startTime="2010-02-03T10:49:52.0403984-08:00" endTime="2010-02-03T10:49:52.2923515-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3ac8f8ef-9f6d-4efc-b59e-6cad1c6b9264">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method DAL_Unit_Tests.IProductDataAccessLayerTest.GetProductListByMaxPriceTest threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at DAL.ProductDataAccessLayer.GetProductList(Decimal maxListPrice) in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\ProductDataAccessLayer.cs:line 62
+   at DAL_Unit_Tests.IProductDataAccessLayerTest.GetProductListByMaxPriceTest() in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\IProductDataAccessLayerTest.cs:line 178
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5d5ef482-7ea6-4357-82c8-6e8bf71b3253" testId="2555bd66-1227-44ed-c426-5aeb6476e3e6" testName="GetProductByProductIDTest" computerName="10265A-GEN-DEV" duration="00:00:00.1766098" startTime="2010-02-03T10:49:52.2933281-08:00" endTime="2010-02-03T10:49:52.4818047-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d5ef482-7ea6-4357-82c8-6e8bf71b3253">
+    </UnitTestResult>
+    <UnitTestResult executionId="b48698a7-d711-47eb-999a-74779605ede8" testId="391b025d-25d4-d0eb-66ad-6d527b42707f" testName="DeleteProductTest" computerName="10265A-GEN-DEV" duration="00:00:00.1174017" startTime="2010-02-03T10:49:52.4827812-08:00" endTime="2010-02-03T10:49:52.6068047-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b48698a7-d711-47eb-999a-74779605ede8">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method DAL_Unit_Tests.IProductDataAccessLayerTest.DeleteProductTest threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at DAL.ProductDataAccessLayer.DeleteProduct(ProductDataObject product) in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\ProductDataAccessLayer.cs:line 82
+   at DAL_Unit_Tests.IProductDataAccessLayerTest.DeleteProductTest() in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\IProductDataAccessLayerTest.cs:line 240
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ce00ec50-6f97-4433-bf80-007f6e34d6b6" testId="8210afdc-cd2a-be6e-4162-20c310688edb" testName="GetProductListTest" computerName="10265A-GEN-DEV" duration="00:00:00.1001387" startTime="2010-02-03T10:49:52.6068047-08:00" endTime="2010-02-03T10:49:52.7152031-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce00ec50-6f97-4433-bf80-007f6e34d6b6">
+    </UnitTestResult>
+    <UnitTestResult executionId="ef8ca78d-0d52-4d59-af06-a6f805c599a2" testId="c271ba97-14d5-de20-d2a6-9ad9a9d53a7b" testName="GetProductListByColorTest" computerName="10265A-GEN-DEV" duration="00:00:00.0909009" startTime="2010-02-03T10:49:52.7161797-08:00" endTime="2010-02-03T10:49:52.8167656-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ef8ca78d-0d52-4d59-af06-a6f805c599a2">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method DAL_Unit_Tests.IProductDataAccessLayerTest.GetProductListByColorTest threw exception: 
+System.NotImplementedException: The method or operation is not implemented.</Message>
+          <StackTrace>    at DAL.ProductDataAccessLayer.GetProductList(String color) in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL\ProductDataAccessLayer.cs:line 52
+   at DAL_Unit_Tests.IProductDataAccessLayerTest.GetProductListByColorTest() in E:\Labfiles\Lab15\Exercise 1\Solution\Using ADO.NET\DAL Unit Tests\IProductDataAccessLayerTest.cs:line 200
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
